@@ -326,6 +326,14 @@
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
 "playInNatPlayer":"true"},
+
+{
+"name":"BeinSport1ำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://godlivetv.io/madoball/7424/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
                                                      
 {
 "name":"BeinSport2",
@@ -336,11 +344,27 @@
 "playInNatPlayer":"true"},
 
 {
+"name":"BeinSport2ำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://godlivetv.io/madoball/7423/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
+
+{
 "name":"BeinSport3",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport3สำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://godlivetv.io/madoball/7422/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
 
 {
