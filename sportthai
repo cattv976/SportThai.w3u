@@ -232,12 +232,12 @@
 "playInNatPlayer": "true"},
 
 {
-"name":"True Premier Football 3",
-"image":"https://dookeela2.live/uploads/1664499681.png",              
-"url":"https://dookeela4.live/live-tv/tpf3",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},  
+"name":"True Premier Football 3",             
+"image":"https://madoball.com/upload/2018.jpg",              
+"url":"https://godlivetv.io/madoball/2018/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name":"True Premier Football 3สำรอง1",
@@ -249,11 +249,11 @@
 
 {
 "name":"True Premier Football 4",
-"image":"https://dookeela2.live/uploads/1664499681.png",              
-"url":"https://dookeela4.live/live-tv/tpf4",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},  
+"image":"https://madoball.com/upload/2019.jpg",              
+"url":"https://godlivetv.io/madoball/2019/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name":"True Premier Football 4สำรอง1",
@@ -537,91 +537,203 @@
 
 {
 "name":"SPOTV1",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-spotv.png",              
-"url":"https://dookeela4.live/live-tv/spotv",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"}, 
+"image":"https://madoball.com/upload/2027.jpg",              
+"url":"https://godlivetv.io/madoball/2027/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
                                                        
 {
 "name":"SPOTV2",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",              
-"url":"https://dookeela4.live/live-tv/spotv2",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
+"image":"https://madoball.com/upload/2023.jpg",              
+"url":"https://godlivetv.io/madoball/2023/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BG Sports 1",
+"image":"https://madoball.com/upload/1260.jpg",              
+"url":"https://godlivetv.io/madoball/1260/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 1",
-"image":"https://dookeela2.live/uploads/1754476003.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball1",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"BG Sports 2",
+"image":"https://madoball.com/upload/1259.jpg",              
+"url":"https://godlivetv.io/madoball/1259/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 2",
-"image":"https://dookeela2.live/uploads/1754969046.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball2",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"BG Sports 3",
+"image":"https://madoball.com/upload/1258.jpg",              
+"url":"https://godlivetv.io/madoball/1258/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 3",
-"image":"https://dookeela2.live/uploads/1754968579.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball3",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"BG Sports 4",
+"image":"https://madoball.com/upload/1257.jpg",              
+"url":"https://godlivetv.io/madoball/1257/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 4",
-"image":"https://dookeela2.live/uploads/1754968644.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball4",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"PLAY SPORTS 41",
+"image":"https://madoball.com/upload/1485.jpg",
+"url":"https://godlivetv.io/madoball/1485/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 5",
-"image":"https://dookeela2.live/uploads/1754968657.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball5",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"PLAY SPORTS 48",
+"image":"https://madoball.com/upload/1439.jpg",
+"url":"https://godlivetv.io/madoball/1439/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 6",
-"image":"https://dookeela2.live/uploads/1754968665.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball6",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"PLAY SPORTS 55",
+"image":"https://madoball.com/upload/1484.jpg",
+"url":"https://godlivetv.io/madoball/1484/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 7",
-"image":"https://dookeela2.live/uploads/1754968677.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball7",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"PLAY SPORTS 56",
+"image":"https://madoball.com/upload/1483.jpg",
+"url":"https://godlivetv.io/madoball/1483/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 8",
-"image":"https://dookeela2.live/uploads/1754968688.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball8",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"PLAY SPORTS 57",
+"image":"https://madoball.com/upload/1441.jpg",
+"url":"https://godlivetv.io/madoball/1441/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name":"PLAY SPORTS FOOTBALL 9",
-"image":"https://dookeela2.live/uploads/1754968707.png",
-"url":"https://dookeela4.live/live-tv/playsportsfootball9",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
+"name":"PLAY SPORTS 58",
+"image":"https://madoball.com/upload/1440.jpg",
+"url":"https://godlivetv.io/madoball/1440/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 61",
+"image":"https://madoball.com/upload/1482.jpg",
+"url":"https://godlivetv.io/madoball/1482/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 62",
+"image":"https://madoball.com/upload/1481.jpg",
+"url":"https://godlivetv.io/madoball/1481/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 63",
+"image":"https://madoball.com/upload/1480.jpg",
+"url":"https://godlivetv.io/madoball/1480/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 64",
+"image":"https://madoball.com/upload/1438.jpg",
+"url":"https://godlivetv.io/madoball/1438/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 66",
+"image":"https://madoball.com/upload/1479.jpg",
+"url":"https://godlivetv.io/madoball/1479/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 67",
+"image":"https://madoball.com/upload/1437.jpg",
+"url":"https://godlivetv.io/madoball/1437/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 69",
+"image":"https://madoball.com/upload/1478.jpg",
+"url":"https://godlivetv.io/madoball/1478/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 71",
+"image":"https://madoball.com/upload/1477.jpg",
+"url":"https://godlivetv.io/madoball/1477/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 72",
+"image":"https://madoball.com/upload/1476.jpg",
+"url":"https://godlivetv.io/madoball/1476/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 73",
+"image":"https://madoball.com/upload/1475.jpg",
+"url":"https://godlivetv.io/madoball/1475/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 74",
+"image":"https://madoball.com/upload/1433.jpg",
+"url":"https://godlivetv.io/madoball/1433/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 75",
+"image":"https://madoball.com/upload/1432.jpg",
+"url":"https://godlivetv.io/madoball/1432/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS 90",
+"image":"https://madoball.com/upload/1436.jpg",
+"url":"https://godlivetv.io/madoball/1436/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
                
 {
 "name":"TSport7",
@@ -649,19 +761,51 @@
                                                       
 {
 "name":"TrueTennis",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",              
-"url":"https://dookeela4.live/live-tv/truetennis",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"}, 
+"image":"https://madoball.com/upload/10332.jpg",              
+"url":"https://godlivetv.io/madoball/10332/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
                   
 {
 "name":"NBATV",
-"image":"https://rentapi.blackboxsys.net/images/png/us-nba.png",              
-"url":"https://dookeela4.live/live-tv/nba",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
+"image":"https://madoball.com/upload/8739.jpg",              
+"url":"https://godlivetv.io/madoball/8739/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"NFL",
+"image":"https://madoball.com/upload/11922.jpg",              
+"url":"https://godlivetv.io/madoball/11922/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"NHL",
+"image":"https://madoball.com/upload/14972.jpg",              
+"url":"https://godlivetv.io/madoball/14972/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
+
+{
+"name":"RED BULL",
+"image":"https://madoball.com/upload/1373.jpg",              
+"url":"https://godlivetv.io/madoball/1373/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
+
+{
+"name":"ONE Championship",
+"image":"https://madoball.com/upload/81433.jpg",              
+"url":"https://godlivetv.io/madoball/81433/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
                                                                                                 	                                               
 
 ]
