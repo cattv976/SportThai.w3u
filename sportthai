@@ -25,9 +25,9 @@
 {
 "name":"MONOMAX1สำรอง2",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
-"url":"https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8",
-"referer":"https://footballsod.live", 
-"info":"Server footballsod.live",                              
+"url":"https://godlivetv.io/madoball/1495/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
 	
 {
@@ -49,10 +49,10 @@
 {                
 "name":"MONOMAX2",
 "image":"https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg",  
-"url":"https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8", 
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer": "true"},
+"url":"https://godlivetv.io/madoball/1494/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
                 
 {
 "name":"MONOMAX2สำรอง1",
@@ -89,17 +89,17 @@
 {                
 "name":"MONOMAX3สำรอง1",
 "image":"https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg",              
-"url":"https://github.com/cattv976/m3u8/raw/refs/heads/main/MONOMAX3.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},  
+"url":"https://godlivetv.io/madoball/1493/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {                
 "name":"MONOMAX3สำรอง2",
 "image":"https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg",              
-"url":"https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8", 
-"referer":"https://www.88-hd.com/", 
-"info":"Server 88-hd",                              
+"url":"https://godlivetv.io/madoball/82044/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
   				                         
 {
@@ -113,17 +113,17 @@
 {
 "name":"MONOMAX4สำรอง1",
 "image":"https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg", 
-"url":"https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX4.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://godlivetv.io/madoball/1492/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name":"MONOMAX4สำรอง2",
 "image":"https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg", 
-"url":"https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8", 
-"referer":"https://www.88-hd.com/", 
-"info":"Server 88-hd",                              
+"url":"https://godlivetv.io/madoball/81912/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
 	                                    	
 {
@@ -137,17 +137,17 @@
 {
 "name":"MONOMAX5สำรอง1",
 "image":"https://www.img01.xyz/assets/img/ch_logo/PL_Mono5.jpg",   
-"url":"https://github.com/cattv976/m3u8/raw/refs/heads/main/MONOMAX5.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://godlivetv.io/madoball/1491/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name":"MONOMAX5สำรอง2",
 "image":"https://www.img01.xyz/assets/img/ch_logo/PL_Mono5.jpg",   
-"url":"https://www.livedoomovies.com/Monomax_PL_5HD/chunklist.m3u8", 
-"referer":"https://www.88-hd.com/", 
-"info":"Server 88-hd",                              
+"url":"https://godlivetv.io/madoball/81779/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
                
 {
@@ -161,17 +161,17 @@
 {
 "name":"MONOMAX6สำรอง1",
 "image":"https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg",   
-"url":"https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX6.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://godlivetv.io/madoball/1490/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name":"MONOMAX6สำรอง2",
 "image":"https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg",   
-"url":"https://www.livedoomovies.com/Monomax_PL_6HD/chunklist.m3u8", 
-"referer":"https://www.88-hd.com/", 
-"info":"Server 88-hd",                              
+"url":"https://godlivetv.io/madoball/81741/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
 
 {
@@ -185,17 +185,17 @@
 {
 "name":"MONOMAX7สำรอง1",
 "image":"https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg",   
-"url":"https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX7.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://godlivetv.io/madoball/1489/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name":"MONOMAX7สำรอง2",
 "image":"https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg",   
-"url":"https://github.com/cattv976/m3u8/raw/refs/heads/main/monomax7.m3u8", 
-"referer":"https://www.88-hd.com/", 
-"info":"Server 88-hd",                              
+"url":"https://godlivetv.io/madoball/81639/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
 
 {
@@ -209,27 +209,27 @@
 {
 "name":"MONOMAX8สำรอง1",
 "image":"https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg",   
-"url":"https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX8.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://godlivetv.io/madoball/1488/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 
 {
 "name":"MONOMAX8สำรอง2",
 "image":"https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg",   
-"url":"https://github.com/cattv976/m3u8/raw/refs/heads/main/monomax8.m3u8", 
-"referer":"https://www.88-hd.com/", 
-"info":"Server 88-hd",                              
+"url":"https://godlivetv.io/madoball/81611/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
 "playInNatPlayer":"true"},
 
 {
 "name":"MONOMAX9",
 "image":"https://www.img06.xyz/assets/img/ch_logo/Monomax_Sport09.png",   
-"url":"https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX9.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://godlivetv.io/madoball/1487/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name":"True Premier Football 3",             
