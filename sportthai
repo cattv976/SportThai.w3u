@@ -9,7 +9,7 @@
 {
 "name":"MONOMAX1",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg", 
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/chunks.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports1/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
 "info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
@@ -17,21 +17,13 @@
 {
 "name":"MONOMAX1สำรอง1",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
-"playInNatPlayer":"true"},
-
-{
-"name":"MONOMAX1สำรอง2",
-"image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
 "url":"https://godlivetv.io/madoball/1495/playlist.m3u8",
 "referer":"https://www.madoball.com/",
 "info":"Server madoball",
 "playInNatPlayer":"true"},
 	
 {
-"name":"MONOMAX1สำรอง3",
+"name":"MONOMAX1สำรอง2",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
 "url":"https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
 "referer":"https://github.com", 
@@ -39,7 +31,7 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"MONOMAX1สำรอง4",
+"name":"MONOMAX1สำรอง3",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
 "url":"https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8",
 "referer":"https://www.88-hd.com/", 
@@ -57,7 +49,7 @@
 {
 "name":"MONOMAX2สำรอง1",
 "image":"https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg",    
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports2/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
 "info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
@@ -81,7 +73,7 @@
 {                
 "name":"MONOMAX3",
 "image":"https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg",               
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
 "info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
@@ -105,7 +97,7 @@
 {
 "name":"MONOMAX4",
 "image":"https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg", 
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports4/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
 "info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
@@ -129,7 +121,7 @@
 {
 "name":"MONOMAX5",
 "image":"https://www.img01.xyz/assets/img/ch_logo/PL_Mono5.jpg",   
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports5/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
 "info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
@@ -153,7 +145,7 @@
 {
 "name":"MONOMAX6",
 "image":"https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg",   
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-6/chunks.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports6/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
 "info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
@@ -177,7 +169,7 @@
 {
 "name":"MONOMAX7",
 "image":"https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg",   
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports7/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
 "info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
@@ -201,7 +193,7 @@
 {
 "name":"MONOMAX8",
 "image":"https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg",   
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-8/chunks.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports8/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
 "info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
