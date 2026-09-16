@@ -9,41 +9,41 @@
 {
 "name":"MONOMAX1",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAcazk6TBUPpDhIyOjnx8Wc8Czh1LseeO6SGVwcKqUMxnVHzS7X7Kc5M1&s=10", 
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports1/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=monomax1",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
            	 		                                                                                                            
 {
 "name":"MONOMAX2",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAcazk6TBUPpDhIyOjnx8Wc8Czh1LseeO6SGVwcKqUMxnVHzS7X7Kc5M1&s=10",    
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports2/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=monomax3",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 	                  			                                                                 		
 {                
 "name":"MONOMAX3",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAcazk6TBUPpDhIyOjnx8Wc8Czh1LseeO6SGVwcKqUMxnVHzS7X7Kc5M1&s=10",               
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=monomax3",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
              				                         
 {
 "name":"MONOMAX4",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAcazk6TBUPpDhIyOjnx8Wc8Czh1LseeO6SGVwcKqUMxnVHzS7X7Kc5M1&s=10", 
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports4/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=monomax4",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
               	                                    	
 {
 "name":"MONOMAX5",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAcazk6TBUPpDhIyOjnx8Wc8Czh1LseeO6SGVwcKqUMxnVHzS7X7Kc5M1&s=10",   
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports5/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=monomax5",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
                
 {
@@ -97,49 +97,49 @@
 {
 "name":"TrueSportHD",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
-"url":"https://godlivetv.io/madoball/2892/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd1",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
                				           		
 {
 "name":"TrueSportHD2",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
-"url":"https://godlivetv.io/madoball/2891/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd2",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
  	
 {
 "name":"TrueSportHD3",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
-"url":"https://godlivetv.io/madoball/2890/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd3",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
                              	                          	
 {
 "name":"TrueSportHD4",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",              
-"url":"https://godlivetv.io/madoball/2889/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd4",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
                         
 {
 "name":"TrueSport5",
 "image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",              
-"url":"https://godlivetv.io/madoball/2888/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truesport5",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
                                	        	        	       
 {
 "name":"TrueSport7",
 "image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
-"url":"https://godlivetv.io/madoball/2829/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truesport7",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
                                 	                               		   			  
 {
